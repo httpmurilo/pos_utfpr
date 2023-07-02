@@ -1,0 +1,8 @@
+D:\Dev\Java\jdk-17.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3\lib\idea_rt.jar=57739:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3\bin" -Dfile.encoding=UTF-8 -classpath D:\Estudos\pos_utfpr\01\atividade_1\out\production\atividade_1 Teste
+Veiculo{placa='HAD9353', marca='Fiat', modelo='Punto', cor='Rosa', velocMax=100.0, qtdRodas=4, Motor=Motor{qtdPist=1, potencia=100}}
+Veiculo{placa='QFQ4822', marca='Volskwagem', modelo='Gol', cor='Preto', velocMax=150.0, qtdRodas=4, Motor=Motor{qtdPist=3, potencia=150}}
+Veiculo{placa='RGG7449', marca='Ford', modelo='Fiesta', cor='Vermelho', velocMax=140.0, qtdRodas=4, Motor=Motor{qtdPist=1, potencia=100}}
+Veiculo{placa='GTP2102', marca='Ford', modelo='KA', cor='Prata', velocMax=120.0, qtdRodas=4, Motor=Motor{qtdPist=1, potencia=98}}
+Veiculo{placa='HVE7235', marca='Citroen', modelo='C3', cor='preta', velocMax=120.0, qtdRodas=4, Motor=Motor{qtdPist=1, potencia=90}}
+
+Process finished with exit code 0
