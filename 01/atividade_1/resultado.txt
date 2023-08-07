@@ -1,8 +1,70 @@
-D:\Dev\Java\jdk-17.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3\lib\idea_rt.jar=57739:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3\bin" -Dfile.encoding=UTF-8 -classpath D:\Estudos\pos_utfpr\01\atividade_1\out\production\atividade_1 Teste
-Veiculo{placa='HAD9353', marca='Fiat', modelo='Punto', cor='Rosa', velocMax=100.0, qtdRodas=4, Motor=Motor{qtdPist=1, potencia=100}}
-Veiculo{placa='QFQ4822', marca='Volskwagem', modelo='Gol', cor='Preto', velocMax=150.0, qtdRodas=4, Motor=Motor{qtdPist=3, potencia=150}}
-Veiculo{placa='RGG7449', marca='Ford', modelo='Fiesta', cor='Vermelho', velocMax=140.0, qtdRodas=4, Motor=Motor{qtdPist=1, potencia=100}}
-Veiculo{placa='GTP2102', marca='Ford', modelo='KA', cor='Prata', velocMax=120.0, qtdRodas=4, Motor=Motor{qtdPist=1, potencia=98}}
-Veiculo{placa='HVE7235', marca='Citroen', modelo='C3', cor='preta', velocMax=120.0, qtdRodas=4, Motor=Motor{qtdPist=1, potencia=90}}
+D:\Dev\Java\jdk-17.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3\lib\idea_rt.jar=60602:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3\bin" -Dfile.encoding=UTF-8 -classpath D:\Estudos\pos_utfpr\01\atividade_1\out\production\atividade_1 Teste
+======================= VEICULO PASSEIO =======================
+Marca := Fiat
+Placa :=HAD9353
+Velocidade Maxima :=100000.0
+Qtd Passageiros :=4
+Potencia do Motor :=100
+Qtd Pistoes Motor :=1
+=========================================
+
+======================= VEICULO PASSEIO =======================
+Marca := Volskwagem
+Placa :=QFQ4822
+Velocidade Maxima :=150000.0
+Qtd Passageiros :=4
+Potencia do Motor :=150
+Qtd Pistoes Motor :=3
+=========================================
+
+======================= VEICULO PASSEIO =======================
+Marca := Ford
+Placa :=RGG7449
+Velocidade Maxima :=140000.0
+Qtd Passageiros :=4
+Potencia do Motor :=100
+Qtd Pistoes Motor :=1
+=========================================
+
+======================= VEICULO PASSEIO =======================
+Marca := Ford
+Placa :=GTP2102
+Velocidade Maxima :=120000.0
+Qtd Passageiros :=4
+Potencia do Motor :=98
+Qtd Pistoes Motor :=1
+=========================================
+
+======================= VEICULO PASSEIO =======================
+Marca := Citroen
+Placa :=HVE7235
+Velocidade Maxima :=120000.0
+Qtd Passageiros :=4
+Potencia do Motor :=90
+Qtd Pistoes Motor :=1
+=========================================
+
+========================= VEICULO CARGA ==========
+Marca := Volks
+Modelo := Saveiro
+Placa := HVE2123
+Velocidade Maxima := 1.5E7
+Tara := 3000
+Carga maxima := 1500
+Potencia do motor := 150
+Qtd Pistoes motor := 1
+========================================
+
+========================= VEICULO CARGA ==========
+Marca := Fiat
+Modelo := Strada
+Placa := HIE2123
+Velocidade Maxima := 1.4E7
+Tara := 5478
+Carga maxima := 1865
+Potencia do motor := 350
+Qtd Pistoes motor := 3
+========================================
+
 
 Process finished with exit code 0

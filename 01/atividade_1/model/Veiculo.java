@@ -1,6 +1,6 @@
 package model;
 
-public class Veiculo {
+public abstract class Veiculo {
 
     public Veiculo() {
     }
@@ -22,6 +22,7 @@ public class Veiculo {
     private Float velocMax;
     private Integer qtdRodas;
     private Motor Motor;
+    public abstract float calcVel(float velocMax);
 
     public String getPlaca() {
         return placa;
